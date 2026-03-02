@@ -1,6 +1,5 @@
 # Data-Driven Identification of a 2nd-Order Dynamic System
 
-![Simulink Diagram](system_diagram.png)
 
 ## Overview
 This repository presents a data-driven approach to modeling and identifying a 2nd-order dynamic system with real poles (aperiodic damped regime). The objective is to analytically deduce the mathematical model (transfer function and state-space representation) using exclusively input-output data sets obtained from a step response.
